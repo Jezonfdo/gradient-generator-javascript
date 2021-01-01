@@ -35,14 +35,14 @@ h3 {
     padding: 14px 16px;
     border-radius: 8px;
     border: 2px solid #4CAF50;
-    transition: 1s all; 
-	border: none;
+    transition: 1s all;
+    outline: none;
 }
 
 #reset:hover {
     background: linear-gradient(45deg, rgb(149, 106, 251), rgb(255, 79, 31));
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-	border: none;
+    outline: none;
 }
 
 #reset_div {
